@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-In this project, I've built a simple speech recognition cnn model for processing speech signals and transforms the wave input to text output.
+In this repo, I've built a simple speech recognition cnn model for processing speech signals and transforms the wave input to text output.
 
 Dataset available [here](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge).
 
